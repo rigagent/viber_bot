@@ -1,0 +1,9 @@
+[Unit]
+Description=Flask server for Car Assist Bot
+After=network-online.target
+
+[Service]
+ExecStart=/root/bot/server.py
+
+[Install]
+WantedBy=multi-user.target

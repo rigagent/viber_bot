@@ -1,0 +1,10 @@
+# The values of this data should be filled
+DB_HOST = ""
+DB_USER = ""
+DB_PASSWORD = ""
+DB_NAME = ""
+TABLE_NAME = ""
+BOT_NAME = ""
+BOT_TOKEN = ""
+SSL_FULLCHAIN_PATH = ""
+SSL_PRIV_KEY_PATH = ""
